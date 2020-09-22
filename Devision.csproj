@@ -7,7 +7,7 @@
     <IsPackable>false</IsPackable>
     <SpaRoot>ClientApp\</SpaRoot>
     <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
-    <RootNamespace>Project_Generator</RootNamespace>
+    <RootNamespace>DEViSiON</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
