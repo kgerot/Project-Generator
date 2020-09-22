@@ -1,6 +1,6 @@
 using System;
 
-namespace Project_Generator
+namespace Devision
 {
     public class WeatherForecast
     {
